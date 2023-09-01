@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const StyledHome = styled.div`
   position: relative;
   width: 100%;
-  height: 97%;
+  height: 98.5%;
   overflow: hidden;
 `;
 
