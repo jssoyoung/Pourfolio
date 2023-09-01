@@ -208,7 +208,7 @@ function Signup() {
           borderBottom: '1px solid #BDAFA0',
           borderTop: '1px solid #BDAFA0',
           width: '100%',
-          height: '93%',
+          height: '91.5%',
           transform: 'translateY(4%)',
           position: 'absolute',
         }}
