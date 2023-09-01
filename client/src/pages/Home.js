@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const StyledHome = styled.div`
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 97%;
   overflow: hidden;
 `;
 
@@ -13,8 +13,8 @@ const BorderBoxOne = styled.div`
   position: absolute;
   border: 1px solid #bdafa0;
   width: 95%;
-  left: 2%;
-  height: 92.5%;
+  left: 1.5%;
+  height: 91.5%;
   top: 3%;
   opacity: 1;
 `;
@@ -23,8 +23,8 @@ const BorderBoxTwo = styled.div`
   position: absolute;
   border: 1px solid #bdafa0;
   width: 95%;
-  left: 4%;
-  height: 92.5%;
+  left: 3.5%;
+  height: 91.5%;
   top: 6%;
   opacity: 1;
 `;
